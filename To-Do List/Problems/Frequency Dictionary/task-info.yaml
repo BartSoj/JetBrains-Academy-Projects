@@ -1,0 +1,27 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6487
+status: Failed
+feedback:
+  message: |+
+    Failed test #1 of 21. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    a aa abC aa ac abc bcd a
+    Correct output:
+    a 2
+    aa 2
+    abc 2
+    ac 1
+    bcd 1
+
+    Your code output:
+
+  time: Wed, 28 Oct 2020 08:05:20 UTC
+record: -1

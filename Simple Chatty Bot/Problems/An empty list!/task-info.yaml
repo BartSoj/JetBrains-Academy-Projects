@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # don't modify the em_list variable, please
+    em_list =
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6738
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6738">JetBrains
+    Academy</a></html>
+  time: Thu, 01 Oct 2020 09:53:35 UTC
+record: -1

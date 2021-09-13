@@ -1,0 +1,28 @@
+content:
+- BeautifulSoup  working with XML
+- BeautifulSoup  working with XML (1)
+- BeautifulSoup  working with XML (2)
+- BeautifulSoup  working with XML (3)
+- BeautifulSoup  working with XML (4)
+- How to choose a collection to use
+- Submodule linalg
+- Accessing data in a DataFrame
+- Combining Data in Pandas
+- .loc   .iloc
+- Conditional selection
+- Modifying a DataFrame
+- Summarizing categorical columns
+- Summarizing numeric columns
+- Grouping and aggregating data in pandas
+- Reshaping and Pivot Tables
+- Tokenization
+- POS tagging
+- Text normalization
+- Text corpora in NLTK
+- Regexps in Python
+- Escaping in regexps
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- Groups and alternations
+- Match object and flags

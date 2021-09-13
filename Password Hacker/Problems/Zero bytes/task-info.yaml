@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # work with this variable
+    zero_bytes = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8597#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8597#comment">JetBrains
+    Academy</a></html>
+  time: Wed, 25 Nov 2020 16:24:15 UTC
+record: -1

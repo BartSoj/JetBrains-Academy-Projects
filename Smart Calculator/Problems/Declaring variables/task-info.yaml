@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # set the special values here
+    pos_inf = ...
+    neg_inf = ...
+    nan = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8811#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 31 Dec 2020 11:15:05 UTC
+record: -1

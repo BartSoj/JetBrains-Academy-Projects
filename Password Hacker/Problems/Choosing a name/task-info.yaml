@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8491#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Thu, 26 Nov 2020 12:59:29 UTC
+record: -1

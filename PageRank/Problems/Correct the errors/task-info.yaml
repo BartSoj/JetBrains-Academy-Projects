@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import numpy as np
+
+    arr = np.array([[1, 5, 6],
+                    [0, 5, 7],
+                    [9, O, 3])
+    print(arr.dim)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11117#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11117#comment">JetBrains
+    Academy</a></html>
+  time: Sun, 15 Nov 2020 10:16:48 UTC
+record: -1

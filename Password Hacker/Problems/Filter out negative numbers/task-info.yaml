@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def find_positive(my_list):
+        # complete the next line
+        return list(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8129#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8129#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 26 Nov 2020 08:34:05 UTC
+record: -1

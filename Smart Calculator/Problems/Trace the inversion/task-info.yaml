@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import numpy
+
+    A = numpy.array([[1, 2], [2, 3]])
+
+    # your code
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12082#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 22 Mar 2021 07:47:01 UTC
+record: -1

@@ -1,0 +1,23 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import numpy as np
+
+
+    a = np.array([[1, 3, 4],
+                  [45, 66, 76],
+                  [0, 9, 4],
+                  [12, 14, 90],
+                  [39, 71, 83],
+                  [27, 20, 5]])
+    # your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10084#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10084#comment">JetBrains
+    Academy</a></html>
+  time: Sun, 15 Nov 2020 10:53:27 UTC
+record: -1

@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import statistics
+
+    a = int(input())
+    b = int(input())
+    c = int(input())
+    d = int(input())
+    e = int(input())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12091#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 22 Mar 2021 08:29:32 UTC
+record: -1

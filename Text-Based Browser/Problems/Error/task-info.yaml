@@ -1,0 +1,18 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    with open('years.txt', 'w', encoding='utf-8') as f:
+        for i in range(2010, 2020):
+            f.write(str(i) + " ")
+
+    f.write('2020')
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8708
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8708">JetBrains
+    Academy</a></html>
+  time: Wed, 28 Oct 2020 14:36:37 UTC
+record: -1

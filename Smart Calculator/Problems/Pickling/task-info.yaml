@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import pickle
+
+
+    def pickle_list(...):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12657#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 18 Mar 2021 12:30:09 UTC
+record: -1

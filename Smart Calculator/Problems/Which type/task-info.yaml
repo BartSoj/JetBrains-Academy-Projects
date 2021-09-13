@@ -1,0 +1,18 @@
+type: code
+custom_name: Which type?
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import pickle
+
+
+    def retrieve_datatype(...):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12658#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 18 Mar 2021 11:02:02 UTC
+record: -1

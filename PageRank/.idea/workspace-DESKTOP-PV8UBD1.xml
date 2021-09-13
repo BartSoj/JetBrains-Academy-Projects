@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26c2b9af-7991-4aae-bff4-e828776a343c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="36d04375-4abd-4d75-9d45-9fac5acede76" />
+  <component name="ProjectId" id="1kJvwwfXqy08sQDtstDkDgXBCVY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PageRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pagerank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PageRank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PageRank/task/pagerank" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PageRank/task/pagerank/pagerank.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pagerank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c2b9af-7991-4aae-bff4-e828776a343c" name="Default Changelist" comment="" />
+      <created>1605431753216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605431753216</updated>
+      <workItem from="1605431760321" duration="9983000" />
+      <workItem from="1605603657230" duration="9887000" />
+      <workItem from="1605774697952" duration="10640000" />
+      <workItem from="1605889941955" duration="2933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="767" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605793105209">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state x="767" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/66.0.2494.1080@66.0.2494.1080" timestamp="1605793105209" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1605892308755">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605892308755" />
+    <state width="2451" height="364" key="GridCell.Tab.0.bottom" timestamp="1605641783791">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.0.bottom/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783791" />
+    <state width="2451" height="364" key="GridCell.Tab.0.center" timestamp="1605641783791">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.0.center/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783791" />
+    <state width="2451" height="364" key="GridCell.Tab.0.left" timestamp="1605641783790">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.0.left/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783790" />
+    <state width="2451" height="364" key="GridCell.Tab.0.right" timestamp="1605641783791">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.0.right/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783791" />
+    <state width="2451" height="364" key="GridCell.Tab.1.bottom" timestamp="1605641783792">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.1.bottom/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783792" />
+    <state width="2451" height="364" key="GridCell.Tab.1.center" timestamp="1605641783791">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.1.center/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783791" />
+    <state width="2451" height="364" key="GridCell.Tab.1.left" timestamp="1605641783791">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.1.left/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783791" />
+    <state width="2451" height="364" key="GridCell.Tab.1.right" timestamp="1605641783791">
+      <screen x="66" y="0" width="2494" height="1080" />
+    </state>
+    <state width="2451" height="364" key="GridCell.Tab.1.right/66.0.2494.1080@66.0.2494.1080" timestamp="1605641783791" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1605892292470">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605892292470" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PageRank$pagerank.coverage" NAME="pagerank Coverage Results" MODIFIED="1605635660259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageRank/task/pagerank" />
+    <SUITE FILE_PATH="coverage/PageRank$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1605437860530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems/Evenly spaced values" />
+    <SUITE FILE_PATH="coverage/PageRank$PageRank_Iterative_method.coverage" NAME="PageRank/Iterative method Coverage Results" MODIFIED="1605641518995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PageRank$PageRank_Linear_ranking.coverage" NAME="PageRank/Linear ranking Coverage Results" MODIFIED="1605639369132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PageRank$PageRank_Damping_parameter.coverage" NAME="PageRank/Damping parameter Coverage Results" MODIFIED="1605641696971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PageRank$PageRank_Basic_search_engine.coverage" NAME="PageRank/Basic search engine Coverage Results" MODIFIED="1605795392263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PageRank$PageRank_Arbitrary_network.coverage" NAME="PageRank/Arbitrary network Coverage Results" MODIFIED="1605786602006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

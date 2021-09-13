@@ -1,0 +1,19 @@
+type: code
+custom_name: Not a number yet!
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import math
+
+
+    value = float(input())
+    # change the next line
+    check = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8814#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 31 Dec 2020 11:14:01 UTC
+record: -1
