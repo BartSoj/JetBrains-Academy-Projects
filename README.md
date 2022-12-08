@@ -1,0 +1,2 @@
+# JetBrains Academy projects and problems
+Here you will find sample solutions to JetBrains Academy projects and problems. Each folder contains different projects, inside of which are the code solutions to the problems required to complete each stage, as well as the solution to the stage itself. The folders are downloaded directly from the IDE in which they were solved and follow the same structure.
